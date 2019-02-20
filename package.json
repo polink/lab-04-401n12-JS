@@ -1,0 +1,23 @@
+{
+  "name": "lab-04",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polink/lab-04-401n12-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polink/lab-04-401n12-JS/issues"
+  },
+  "homepage": "https://github.com/polink/lab-04-401n12-JS#readme",
+  "description": "",
+  "dependencies": {
+    "buffer": "^5.2.1",
+    "fs": "0.0.1-security"
+  }
+}
